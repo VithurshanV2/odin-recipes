@@ -16,9 +16,20 @@ h1 {
 li {
     font-size: 20px;
     color: brown;
+    margin-left: 40px;
 }
 
 p {
     color: black;
     font-style: italic;
+    margin: 20px;
+}
+
+h3 {
+    padding-left: 30px;
+    font-size: 24px;
+}
+
+img {
+    margin-left: 20px;
 }
